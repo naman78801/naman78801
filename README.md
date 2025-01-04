@@ -1,4 +1,4 @@
-**👋 Hi, I'm Naman Mujawdiya!**
+👋 Hi, I'm Naman Mujawdiya!
 🚀 DevOps Engineer | Cloud Architect
 🌍 Location: Indore, Madhya Pradesh
 ✉️ Contact: contact@namanmujawdiya.in
@@ -9,30 +9,28 @@ I’m a DevOps Engineer and Cloud Architect passionate about building scalable i
 
 🛠 Skills
 DevOps & Cloud:
-CI/CD: Jenkins, GitHub Actions, GitLab CI/CD
-Cloud Platforms: AWS, Azure, Google Cloud
-Containerization: Docker, Kubernetes
-Infrastructure as Code (IaC): Terraform, Ansible
+•	CI/CD: Jenkins, GitHub Actions, GitLab CI/CD
+•	Cloud Platforms: AWS, Azure, Google Cloud
+•	Containerization: Docker, Kubernetes
+•	Infrastructure as Code (IaC): Terraform, Ansible
 Programming & Scripting:
-Languages: Python, Bash, YAML
-Frameworks: Flask, Django
+•	Languages: Python, Bash, YAML
+•	Frameworks: Flask, Django
 Monitoring & Security:
-Tools: Prometheus, Grafana, ELK Stack
-Security: IAM Policies, MFA, Secrets Management
+•	Tools: Prometheus, Grafana, ELK Stack
+•	Security: IAM Policies, MFA, Secrets Management
 
 🌟 Featured Projects
 🔗 DevOps Starter Kit
 A comprehensive repository with best practices, IaC scripts, and deployment pipelines for starting any DevOps project.
-
 🔗 Cloud Cost Optimizer
 A tool for identifying cost-saving opportunities across AWS and Azure services.
-
 🔗 Kubernetes Automation Scripts
 Custom scripts and manifests for automating Kubernetes deployments and scaling.
 
 🌐 Let's Connect
-LinkedIn: Naman Mujawdiya
-Twitter: @NamanDevOps
-Portfolio: namanmujawdiya.in
+•	LinkedIn: Naman Mujawdiya
+•	Twitter: @NamanDevOps
+•	Portfolio: namanmujawdiya.in
 Feel free to reach out for collaborations, mentorship, or to discuss anything DevOps or Cloud-related! 🚀
 
