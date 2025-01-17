@@ -1,6 +1,6 @@
 # 💻 Naman | DevOps Engineer | Cloud Architect | Networking Professional
 
-Welcome to my GitHub profile! I am **Naman**, a passionate DevOps Engineer, Cloud Architect, and Networking Professional with **4+ years of experience** in designing and implementing scalable, secure, and efficient solutions. My expertise lies in blending cutting-edge technologies with innovative solutions to solve real-world challenges.
+Welcome to my GitHub profile! I am **Naman**, a passionate DevOps Engineer, Cloud Architect, and Networking Professional with **2+ years of experience** in designing and implementing scalable, secure, and efficient solutions. My expertise lies in blending cutting-edge technologies with innovative solutions to solve real-world challenges.
 
 ---
 
