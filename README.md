@@ -68,10 +68,9 @@ Welcome to my GitHub profile! I am **Naman**, a passionate DevOps Engineer, Clou
 ---
 
 ## 📫 **Let's Connect!**
-- **Email:** naman.devops@example.com
-- **LinkedIn:** [linkedin.com/in/naman-devops](https://linkedin.com/in/naman-devops)
-- **Portfolio:** [Naman's Portfolio](http://4.230.8.132) (Deployed on Azure VM)
-
+- **Email:** Contact@namanmujawdiya.in
+- **LinkedIn:** https://www.linkedin.com/in/naman-mujawdiya-882bb12a0/
+- **Portfolio:** https://www.pratik.solutions
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or mentorship. Let's build scalable and secure solutions together! 🚀
