@@ -1,36 +1,78 @@
-👋 Hi, I'm Naman Mujawdiya!
-🚀 DevOps Engineer | Cloud Architect
-🌍 Location: Indore, Madhya Pradesh
-✉️ Contact: contact@namanmujawdiya.in
-🔗 Portfolio: namanmujawdiya.in
+# 💻 Naman | DevOps Engineer | Cloud Architect | Networking Professional
 
-🚀 About Me
-I’m a DevOps Engineer and Cloud Architect passionate about building scalable infrastructure, automating workflows, and implementing best practices for deployment pipelines. With a strong foundation in cloud services and CI/CD tools, I enjoy solving complex problems and optimizing systems for performance.
+Welcome to my GitHub profile! I am **Naman**, a passionate DevOps Engineer, Cloud Architect, and Networking Professional with **4+ years of experience** in designing and implementing scalable, secure, and efficient solutions. My expertise lies in blending cutting-edge technologies with innovative solutions to solve real-world challenges.
 
-🛠 Skills
-DevOps & Cloud:
-•	CI/CD: Jenkins, GitHub Actions, GitLab CI/CD
-•	Cloud Platforms: AWS, Azure, Google Cloud
-•	Containerization: Docker, Kubernetes
-•	Infrastructure as Code (IaC): Terraform, Ansible
-Programming & Scripting:
-•	Languages: Python, Bash, YAML
-•	Frameworks: Flask, Django
-Monitoring & Security:
-•	Tools: Prometheus, Grafana, ELK Stack
-•	Security: IAM Policies, MFA, Secrets Management
+---
 
-🌟 Featured Projects
-🔗 DevOps Starter Kit
-A comprehensive repository with best practices, IaC scripts, and deployment pipelines for starting any DevOps project.
-🔗 Cloud Cost Optimizer
-A tool for identifying cost-saving opportunities across AWS and Azure services.
-🔗 Kubernetes Automation Scripts
-Custom scripts and manifests for automating Kubernetes deployments and scaling.
+## 🔧 **Skills and Expertise**
 
-🌐 Let's Connect
-•	LinkedIn: Naman Mujawdiya
-•	Twitter: @NamanDevOps
-•	Portfolio: namanmujawdiya.in
-Feel free to reach out for collaborations, mentorship, or to discuss anything DevOps or Cloud-related! 🚀
+### 🚀 **DevOps**
+- CI/CD Pipelines: GitHub Actions, Jenkins, CircleCI
+- Infrastructure as Code (IaC): Terraform, Ansible
+- Containerization & Orchestration: Docker, Kubernetes
+- Monitoring & Logging: Prometheus, Grafana, ELK Stack
+
+### ☁️ **Cloud Platforms**
+- **AWS:** EC2, S3, RDS, Lambda, CloudFormation
+- **Azure:** Virtual Machines, Blob Storage, Azure DevOps, Resource Groups
+- **GCP:** Compute Engine, Cloud Functions, Cloud Run
+
+### 🌐 **Networking**
+- Protocols: TCP/IP, DNS, HTTP/HTTPS
+- Security: Firewalls, VPNs, Load Balancers
+- Configuration: Cisco, Juniper, MikroTik
+
+### 📜 **Programming & Scripting**
+- Languages: Python, Shell Scripting, YAML, JavaScript
+- Frameworks: Ruby on Rails, React.js
+
+### 🛡️ **Security**
+- MFA Enforcement for IAM users
+- SSL/TLS Configuration
+- MAC Binding and Advanced IP Scanning
+
+---
+
+## 💼 **Experience**
+
+### **Network Administrator | System Engineer | DevOps Engineer**
+- Designed and deployed high-availability systems using **cloud-native** tools.
+- Automated workflows for efficient deployment pipelines.
+- Enhanced system security through **IAM policies**, **SSL configurations**, and **network segmentation**.
+
+### **UI/UX Designer | Web3 Developer**
+- Delivered user-centric digital solutions combining aesthetics with functionality.
+- Developed and deployed **decentralized applications (dApps)** with Web3 technologies.
+
+---
+
+## 🛠️ **Projects**
+
+### 🌍 **Portfolio Deployment**
+- **Tech Stack:** Azure VM, React.js, GitHub Actions
+- Automated portfolio deployment on an **Azure VM** using shell scripts and CI/CD workflows.
+
+### 🔐 **AWS RDS & PostgreSQL Integration**
+- Set up and secured a **PostgreSQL database** on AWS RDS for a web application.
+
+### 🕸️ **Dockerized Web Applications**
+- Hosted websites using **Nginx** in Docker containers, implemented SSL for secure connections.
+
+---
+
+## 🎯 **Goals for 2025**
+- Achieve **AWS Certified Solutions Architect** and **Certified Kubernetes Administrator (CKA)**.
+- Enhance expertise in **cloud security** and **distributed systems**.
+- Contribute to open-source projects in **DevOps** and **Networking** domains.
+
+---
+
+## 📫 **Let's Connect!**
+- **Email:** naman.devops@example.com
+- **LinkedIn:** [linkedin.com/in/naman-devops](https://linkedin.com/in/naman-devops)
+- **Portfolio:** [Naman's Portfolio](http://4.230.8.132) (Deployed on Azure VM)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or mentorship. Let's build scalable and secure solutions together! 🚀
 
